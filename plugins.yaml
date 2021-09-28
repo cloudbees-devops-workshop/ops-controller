@@ -23,6 +23,3 @@ plugins:
 - id: warnings-ng
 - id: workflow-aggregator
 - id: workflow-cps-checkpoint
-
-# Not included in CAP
-- id: pipeline-utility-steps
